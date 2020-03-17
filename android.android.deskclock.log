@@ -1,0 +1,150 @@
+2020-03-14 07:06:08,357 - [INFO::DC::ExLogger] - AlarmClock: JobScheduler is exist
+2020-03-14 07:06:08,359 - [INFO::DC::ExLogger] - AlarmClock: JobScheduler is exist
+2020-03-14 16:20:34,495 - [INFO::DC::ExLogger] - AlarmClock: JobScheduler is exist
+2020-03-14 16:20:34,495 - [INFO::DC::ExLogger] - AlarmClock: JobScheduler is exist
+2020-03-15 00:22:03,846 - [INFO::DC::ExLogger] - AlarmClock: JobScheduler is exist
+2020-03-15 00:22:03,846 - [INFO::DC::ExLogger] - AlarmClock: JobScheduler is exist
+2020-03-15 00:22:18,647 - [INFO::DC::ExLogger] - AlarmClock: ** setAlert id 1 atTime 15 Maret 2020 4:50:00.0
+2020-03-15 00:22:18,657 - [INFO::DC::ExLogger] - AlarmClock: setNextAlert() and to record the count!
+2020-03-15 00:22:18,669 - [INFO::DC::ExLogger] - AlarmClock: Set Shutdown Alarm. System will boot at 15 Maret 2020 4:48:00.0
+2020-03-15 04:47:43,292 - [INFO::DC::ExLogger] - AlarmClock: ** setAlert id 1 atTime 15 Maret 2020 4:50:00.0
+2020-03-15 04:47:43,297 - [INFO::DC::ExLogger] - AlarmClock: setNextAlert() and to record the count!
+2020-03-15 04:50:00,146 - [INFO::DC::ExLogger] - DC:AlarmReceiver: AlarmReceiver, action: com.android.deskclock.ALARM_ALERT
+2020-03-15 04:50:00,175 - [INFO::DC::ExLogger] - AlarmClock: ** setAlert id 1 atTime 16 Maret 2020 4:50:00.0
+2020-03-15 04:50:00,179 - [INFO::DC::ExLogger] - AlarmClock: setNextAlert() and to record the count!
+2020-03-15 04:50:00,190 - [INFO::DC::ExLogger] - AlarmClock: Set Shutdown Alarm. System will boot at 16 Maret 2020 4:48:00.0
+2020-03-15 04:50:00,210 - [INFO::DC::ExLogger] - DC:AlarmReceiver: received alarm broadcast: Alarm:(id:1, enabled:true, hour:4, minutes:50, seconds:0, daysOfWeek:127, time:15 Maret 2020 4:50:00.0, vibrate:true, alert:file:///system/media/audio/ringtones/Vigor.ogg, silent:false, deleteAfterUse:false, skipTime:0)
+2020-03-15 04:50:00,218 - [INFO::DC::ExLogger] - DC:AlarmReceiver: require alarm klaxon
+2020-03-15 04:50:00,239 - [INFO::DC::ExLogger] - DC:AlarmReceiver: require alarm screen
+2020-03-15 04:50:00,275 - [INFO::DC::ExLogger] - DC:AlarmKlaxon: coming alarm: Alarm:(id:1, enabled:true, hour:4, minutes:50, seconds:0, daysOfWeek:127, time:15 Maret 2020 4:50:00.0, vibrate:true, alert:file:///system/media/audio/ringtones/Vigor.ogg, silent:false, deleteAfterUse:false, skipTime:0)
+2020-03-15 04:50:00,275 - [INFO::DC::ExLogger] - DC:AlarmKlaxon: stop old alarm
+2020-03-15 04:50:00,275 - [INFO::DC::ExLogger] - DC:AlarmKlaxon: start play: 1
+2020-03-15 04:50:00,275 - [INFO::DC::ExLogger] - DC:AlarmKlaxon: start vibrator
+2020-03-15 04:50:00,302 - [INFO::DC::ExLogger] - DC:AlarmRingtone: alarm ringtone: Semangat
+2020-03-15 04:50:00,305 - [INFO::DC::ExLogger] - DC:AlarmKlaxon: play normal ringtone
+2020-03-15 04:50:00,697 - [INFO::DC::ExLogger] - AlarmClock: AlarmAlertFullScreenActivity, alarm fires: 15 Maret 2020 4:50:00.0
+2020-03-15 04:56:40,868 - [INFO::DC::ExLogger] - AlarmClock: User manually dismissed, showLifePost:false
+2020-03-15 04:56:40,870 - [INFO::DC::ExLogger] - AlarmClock: Alarm dismissed
+2020-03-15 04:56:40,962 - [INFO::DC::ExLogger] - AlarmClock: AlarmKlaxon onDestroy()
+2020-03-15 14:05:11,190 - [INFO::DC::ExLogger] - AlarmClock: JobScheduler is exist
+2020-03-15 14:05:11,191 - [INFO::DC::ExLogger] - AlarmClock: JobScheduler is exist
+2020-03-15 14:05:11,247 - [INFO::DC::ExLogger] - AlarmClock: ** setAlert id 1 atTime 16 Maret 2020 4:50:00.0
+2020-03-15 14:05:11,253 - [INFO::DC::ExLogger] - AlarmClock: setNextAlert() and to record the count!
+2020-03-15 14:05:11,263 - [INFO::DC::ExLogger] - AlarmClock: Set Shutdown Alarm. System will boot at 16 Maret 2020 4:48:00.0
+2020-03-15 16:21:30,003 - [INFO::DC::ExLogger] - AlarmClock: JobScheduler is exist
+2020-03-15 16:21:30,004 - [INFO::DC::ExLogger] - AlarmClock: JobScheduler is exist
+2020-03-16 03:50:01,116 - [INFO::DC::ExLogger] - AlarmClock: JobScheduler is exist
+2020-03-16 03:50:01,118 - [INFO::DC::ExLogger] - AlarmClock: JobScheduler is exist
+2020-03-16 03:50:01,158 - [INFO::DC::ExLogger] - DC:AlarmReceiver: AlarmReceiver, action: com.android.deskclock.ALARM_ARRIVING
+2020-03-16 04:35:00,320 - [INFO::DC::ExLogger] - DC:AlarmReceiver: AlarmReceiver, action: com.android.deskclock.ALARM_ARRIVING_TRANSPARENT
+2020-03-16 04:43:05,803 - [INFO::DC::ExLogger] - DC:AlarmReceiver: AlarmReceiver, action: com.android.deskclock.ALARM_DATA_PREPARE
+2020-03-16 04:50:00,426 - [INFO::DC::ExLogger] - DC:AlarmReceiver: AlarmReceiver, action: com.android.deskclock.ALARM_ALERT
+2020-03-16 04:50:00,599 - [INFO::DC::ExLogger] - AlarmClock: ** setAlert id 1 atTime 17 Maret 2020 4:50:00.0
+2020-03-16 04:50:00,606 - [INFO::DC::ExLogger] - AlarmClock: setNextAlert() and to record the count!
+2020-03-16 04:50:00,663 - [INFO::DC::ExLogger] - AlarmClock: Set Shutdown Alarm. System will boot at 17 Maret 2020 4:48:00.0
+2020-03-16 04:50:00,692 - [INFO::DC::ExLogger] - DC:AlarmReceiver: received alarm broadcast: Alarm:(id:1, enabled:true, hour:4, minutes:50, seconds:0, daysOfWeek:127, time:16 Maret 2020 4:50:00.0, vibrate:true, alert:file:///system/media/audio/ringtones/Vigor.ogg, silent:false, deleteAfterUse:false, skipTime:0)
+2020-03-16 04:50:00,699 - [INFO::DC::ExLogger] - DC:AlarmReceiver: require alarm klaxon
+2020-03-16 04:50:00,707 - [INFO::DC::ExLogger] - DC:AlarmReceiver: require alarm screen
+2020-03-16 04:50:00,770 - [INFO::DC::ExLogger] - DC:AlarmKlaxon: coming alarm: Alarm:(id:1, enabled:true, hour:4, minutes:50, seconds:0, daysOfWeek:127, time:16 Maret 2020 4:50:00.0, vibrate:true, alert:file:///system/media/audio/ringtones/Vigor.ogg, silent:false, deleteAfterUse:false, skipTime:0)
+2020-03-16 04:50:00,771 - [INFO::DC::ExLogger] - DC:AlarmKlaxon: stop old alarm
+2020-03-16 04:50:00,771 - [INFO::DC::ExLogger] - DC:AlarmKlaxon: start play: 1
+2020-03-16 04:50:00,771 - [INFO::DC::ExLogger] - DC:AlarmKlaxon: start vibrator
+2020-03-16 04:50:00,816 - [INFO::DC::ExLogger] - DC:AlarmRingtone: alarm ringtone: Semangat
+2020-03-16 04:50:00,820 - [INFO::DC::ExLogger] - DC:AlarmKlaxon: play normal ringtone
+2020-03-16 04:50:01,121 - [INFO::DC::ExLogger] - AlarmClock: AlarmAlertFullScreenActivity, alarm fires: 16 Maret 2020 4:50:00.0
+2020-03-16 04:51:24,426 - [INFO::DC::ExLogger] - AlarmClock: User manually dismissed, showLifePost:false
+2020-03-16 04:51:24,427 - [INFO::DC::ExLogger] - AlarmClock: Alarm dismissed
+2020-03-16 04:51:24,522 - [INFO::DC::ExLogger] - AlarmClock: AlarmKlaxon onDestroy()
+2020-03-16 06:49:20,741 - [INFO::DC::ExLogger] - AlarmClock: JobScheduler is exist
+2020-03-16 06:49:20,741 - [INFO::DC::ExLogger] - AlarmClock: JobScheduler is exist
+2020-03-16 17:35:36,979 - [INFO::DC::ExLogger] - AlarmClock: JobScheduler is exist
+2020-03-16 17:35:36,984 - [INFO::DC::ExLogger] - AlarmClock: JobScheduler is exist
+2020-03-17 04:47:48,917 - [INFO::DC::ExLogger] - AlarmClock: ** setAlert id 1 atTime 17 Maret 2020 4:50:00.0
+2020-03-17 04:47:48,925 - [INFO::DC::ExLogger] - AlarmClock: setNextAlert() and to record the count!
+2020-03-17 04:50:00,432 - [INFO::DC::ExLogger] - DC:AlarmReceiver: AlarmReceiver, action: com.android.deskclock.ALARM_ALERT
+2020-03-17 04:50:00,444 - [INFO::DC::ExLogger] - AlarmClock: ** setAlert id 1 atTime 18 Maret 2020 4:50:00.0
+2020-03-17 04:50:00,448 - [INFO::DC::ExLogger] - AlarmClock: setNextAlert() and to record the count!
+2020-03-17 04:50:00,458 - [INFO::DC::ExLogger] - AlarmClock: Set Shutdown Alarm. System will boot at 18 Maret 2020 4:48:00.0
+2020-03-17 04:50:00,472 - [INFO::DC::ExLogger] - DC:AlarmReceiver: received alarm broadcast: Alarm:(id:1, enabled:true, hour:4, minutes:50, seconds:0, daysOfWeek:127, time:17 Maret 2020 4:50:00.0, vibrate:true, alert:file:///system/media/audio/ringtones/Vigor.ogg, silent:false, deleteAfterUse:false, skipTime:0)
+2020-03-17 04:50:00,479 - [INFO::DC::ExLogger] - DC:AlarmReceiver: require alarm klaxon
+2020-03-17 04:50:00,483 - [INFO::DC::ExLogger] - DC:AlarmReceiver: require alarm screen
+2020-03-17 04:50:00,589 - [INFO::DC::ExLogger] - DC:AlarmKlaxon: coming alarm: Alarm:(id:1, enabled:true, hour:4, minutes:50, seconds:0, daysOfWeek:127, time:17 Maret 2020 4:50:00.0, vibrate:true, alert:file:///system/media/audio/ringtones/Vigor.ogg, silent:false, deleteAfterUse:false, skipTime:0)
+2020-03-17 04:50:00,589 - [INFO::DC::ExLogger] - DC:AlarmKlaxon: stop old alarm
+2020-03-17 04:50:00,589 - [INFO::DC::ExLogger] - DC:AlarmKlaxon: start play: 1
+2020-03-17 04:50:00,589 - [INFO::DC::ExLogger] - DC:AlarmKlaxon: start vibrator
+2020-03-17 04:50:00,668 - [INFO::DC::ExLogger] - DC:AlarmRingtone: alarm ringtone: Semangat
+2020-03-17 04:50:00,672 - [INFO::DC::ExLogger] - DC:AlarmKlaxon: play normal ringtone
+2020-03-17 04:50:01,198 - [INFO::DC::ExLogger] - AlarmClock: AlarmAlertFullScreenActivity, alarm fires: 17 Maret 2020 4:50:00.0
+2020-03-17 05:00:00,605 - [INFO::DC::ExLogger] - AlarmClock: Snooze alarm, id 1
+2020-03-17 05:00:00,644 - [INFO::DC::ExLogger] - AlarmClock: ** setAlert id 1 atTime 17 Maret 2020 5:10:00.605
+2020-03-17 05:00:00,659 - [INFO::DC::ExLogger] - AlarmClock: setNextAlert() and to record the count!
+2020-03-17 05:00:00,814 - [INFO::DC::ExLogger] - DC:AlarmReceiver: AlarmReceiver, action: alarm_killed
+2020-03-17 05:00:00,815 - [INFO::DC::ExLogger] - AlarmClock: Snooze alarm, id 1
+2020-03-17 05:00:00,829 - [INFO::DC::ExLogger] - AlarmClock: ** setAlert id 1 atTime 17 Maret 2020 5:10:00.815
+2020-03-17 05:00:00,839 - [INFO::DC::ExLogger] - AlarmClock: setNextAlert() and to record the count!
+2020-03-17 05:00:00,874 - [INFO::DC::ExLogger] - AlarmClock: AlarmKlaxon onDestroy()
+2020-03-17 05:10:01,170 - [INFO::DC::ExLogger] - DC:AlarmReceiver: AlarmReceiver, action: com.android.deskclock.ALARM_ALERT
+2020-03-17 05:10:01,203 - [INFO::DC::ExLogger] - AlarmClock: ** setAlert id 1 atTime 18 Maret 2020 4:50:00.0
+2020-03-17 05:10:01,212 - [INFO::DC::ExLogger] - AlarmClock: setNextAlert() and to record the count!
+2020-03-17 05:10:01,225 - [INFO::DC::ExLogger] - AlarmClock: Set Shutdown Alarm. System will boot at 18 Maret 2020 4:48:00.0
+2020-03-17 05:10:01,228 - [INFO::DC::ExLogger] - DC:AlarmReceiver: received alarm broadcast: Alarm:(id:1, enabled:true, hour:4, minutes:50, seconds:0, daysOfWeek:127, time:17 Maret 2020 5:10:00.815, vibrate:true, alert:file:///system/media/audio/ringtones/Vigor.ogg, silent:false, deleteAfterUse:false, skipTime:0)
+2020-03-17 05:10:01,231 - [INFO::DC::ExLogger] - DC:AlarmReceiver: require alarm klaxon
+2020-03-17 05:10:01,236 - [INFO::DC::ExLogger] - DC:AlarmReceiver: require alarm screen
+2020-03-17 05:10:01,248 - [INFO::DC::ExLogger] - DC:AlarmKlaxon: coming alarm: Alarm:(id:1, enabled:true, hour:4, minutes:50, seconds:0, daysOfWeek:127, time:17 Maret 2020 5:10:00.815, vibrate:true, alert:file:///system/media/audio/ringtones/Vigor.ogg, silent:false, deleteAfterUse:false, skipTime:0)
+2020-03-17 05:10:01,248 - [INFO::DC::ExLogger] - DC:AlarmKlaxon: stop old alarm
+2020-03-17 05:10:01,248 - [INFO::DC::ExLogger] - DC:AlarmKlaxon: start play: 1
+2020-03-17 05:10:01,248 - [INFO::DC::ExLogger] - DC:AlarmKlaxon: start vibrator
+2020-03-17 05:10:01,279 - [INFO::DC::ExLogger] - DC:AlarmRingtone: alarm ringtone: Semangat
+2020-03-17 05:10:01,285 - [INFO::DC::ExLogger] - DC:AlarmKlaxon: play normal ringtone
+2020-03-17 05:10:01,505 - [INFO::DC::ExLogger] - AlarmClock: AlarmAlertFullScreenActivity, alarm fires: 17 Maret 2020 5:10:00.815
+2020-03-17 05:20:01,262 - [INFO::DC::ExLogger] - AlarmClock: Snooze alarm, id 1
+2020-03-17 05:20:01,291 - [INFO::DC::ExLogger] - AlarmClock: ** setAlert id 1 atTime 17 Maret 2020 5:30:01.262
+2020-03-17 05:20:01,302 - [INFO::DC::ExLogger] - AlarmClock: setNextAlert() and to record the count!
+2020-03-17 05:20:01,404 - [INFO::DC::ExLogger] - DC:AlarmReceiver: AlarmReceiver, action: alarm_killed
+2020-03-17 05:20:01,404 - [INFO::DC::ExLogger] - AlarmClock: Snooze alarm, id 1
+2020-03-17 05:20:01,420 - [INFO::DC::ExLogger] - AlarmClock: ** setAlert id 1 atTime 17 Maret 2020 5:30:01.404
+2020-03-17 05:20:01,430 - [INFO::DC::ExLogger] - AlarmClock: setNextAlert() and to record the count!
+2020-03-17 05:20:01,433 - [INFO::DC::ExLogger] - AlarmClock: AlarmKlaxon onDestroy()
+2020-03-17 05:30:01,835 - [INFO::DC::ExLogger] - DC:AlarmReceiver: AlarmReceiver, action: com.android.deskclock.ALARM_ALERT
+2020-03-17 05:30:01,904 - [INFO::DC::ExLogger] - AlarmClock: ** setAlert id 1 atTime 18 Maret 2020 4:50:00.0
+2020-03-17 05:30:01,911 - [INFO::DC::ExLogger] - AlarmClock: setNextAlert() and to record the count!
+2020-03-17 05:30:01,938 - [INFO::DC::ExLogger] - AlarmClock: Set Shutdown Alarm. System will boot at 18 Maret 2020 4:48:00.0
+2020-03-17 05:30:01,942 - [INFO::DC::ExLogger] - DC:AlarmReceiver: received alarm broadcast: Alarm:(id:1, enabled:true, hour:4, minutes:50, seconds:0, daysOfWeek:127, time:17 Maret 2020 5:30:01.404, vibrate:true, alert:file:///system/media/audio/ringtones/Vigor.ogg, silent:false, deleteAfterUse:false, skipTime:0)
+2020-03-17 05:30:01,947 - [INFO::DC::ExLogger] - DC:AlarmReceiver: require alarm klaxon
+2020-03-17 05:30:01,953 - [INFO::DC::ExLogger] - DC:AlarmReceiver: require alarm screen
+2020-03-17 05:30:01,976 - [INFO::DC::ExLogger] - DC:AlarmKlaxon: coming alarm: Alarm:(id:1, enabled:true, hour:4, minutes:50, seconds:0, daysOfWeek:127, time:17 Maret 2020 5:30:01.404, vibrate:true, alert:file:///system/media/audio/ringtones/Vigor.ogg, silent:false, deleteAfterUse:false, skipTime:0)
+2020-03-17 05:30:01,977 - [INFO::DC::ExLogger] - DC:AlarmKlaxon: stop old alarm
+2020-03-17 05:30:01,977 - [INFO::DC::ExLogger] - DC:AlarmKlaxon: start play: 1
+2020-03-17 05:30:01,977 - [INFO::DC::ExLogger] - DC:AlarmKlaxon: start vibrator
+2020-03-17 05:30:01,996 - [INFO::DC::ExLogger] - DC:AlarmRingtone: alarm ringtone: Semangat
+2020-03-17 05:30:01,999 - [INFO::DC::ExLogger] - DC:AlarmKlaxon: play normal ringtone
+2020-03-17 05:30:02,243 - [INFO::DC::ExLogger] - AlarmClock: AlarmAlertFullScreenActivity, alarm fires: 17 Maret 2020 5:30:01.404
+2020-03-17 05:40:02,003 - [INFO::DC::ExLogger] - AlarmClock: Snooze alarm, id 1
+2020-03-17 05:40:02,043 - [INFO::DC::ExLogger] - AlarmClock: ** setAlert id 1 atTime 17 Maret 2020 5:50:02.3
+2020-03-17 05:40:02,050 - [INFO::DC::ExLogger] - AlarmClock: setNextAlert() and to record the count!
+2020-03-17 05:40:02,103 - [INFO::DC::ExLogger] - DC:AlarmReceiver: AlarmReceiver, action: alarm_killed
+2020-03-17 05:40:02,104 - [INFO::DC::ExLogger] - AlarmClock: Snooze alarm, id 1
+2020-03-17 05:40:02,149 - [INFO::DC::ExLogger] - AlarmClock: ** setAlert id 1 atTime 17 Maret 2020 5:50:02.103
+2020-03-17 05:40:02,157 - [INFO::DC::ExLogger] - AlarmClock: setNextAlert() and to record the count!
+2020-03-17 05:40:02,162 - [INFO::DC::ExLogger] - AlarmClock: AlarmKlaxon onDestroy()
+2020-03-17 05:50:02,553 - [INFO::DC::ExLogger] - DC:AlarmReceiver: AlarmReceiver, action: com.android.deskclock.ALARM_ALERT
+2020-03-17 05:50:02,614 - [INFO::DC::ExLogger] - AlarmClock: ** setAlert id 1 atTime 18 Maret 2020 4:50:00.0
+2020-03-17 05:50:02,621 - [INFO::DC::ExLogger] - AlarmClock: setNextAlert() and to record the count!
+2020-03-17 05:50:02,643 - [INFO::DC::ExLogger] - AlarmClock: Set Shutdown Alarm. System will boot at 18 Maret 2020 4:48:00.0
+2020-03-17 05:50:02,647 - [INFO::DC::ExLogger] - DC:AlarmReceiver: received alarm broadcast: Alarm:(id:1, enabled:true, hour:4, minutes:50, seconds:0, daysOfWeek:127, time:17 Maret 2020 5:50:02.103, vibrate:true, alert:file:///system/media/audio/ringtones/Vigor.ogg, silent:false, deleteAfterUse:false, skipTime:0)
+2020-03-17 05:50:02,654 - [INFO::DC::ExLogger] - DC:AlarmReceiver: require alarm klaxon
+2020-03-17 05:50:02,659 - [INFO::DC::ExLogger] - DC:AlarmReceiver: require alarm screen
+2020-03-17 05:50:02,689 - [INFO::DC::ExLogger] - DC:AlarmKlaxon: coming alarm: Alarm:(id:1, enabled:true, hour:4, minutes:50, seconds:0, daysOfWeek:127, time:17 Maret 2020 5:50:02.103, vibrate:true, alert:file:///system/media/audio/ringtones/Vigor.ogg, silent:false, deleteAfterUse:false, skipTime:0)
+2020-03-17 05:50:02,689 - [INFO::DC::ExLogger] - DC:AlarmKlaxon: stop old alarm
+2020-03-17 05:50:02,689 - [INFO::DC::ExLogger] - DC:AlarmKlaxon: start play: 1
+2020-03-17 05:50:02,689 - [INFO::DC::ExLogger] - DC:AlarmKlaxon: start vibrator
+2020-03-17 05:50:02,709 - [INFO::DC::ExLogger] - DC:AlarmRingtone: alarm ringtone: Semangat
+2020-03-17 05:50:02,713 - [INFO::DC::ExLogger] - DC:AlarmKlaxon: play normal ringtone
+2020-03-17 05:50:02,937 - [INFO::DC::ExLogger] - AlarmClock: AlarmAlertFullScreenActivity, alarm fires: 17 Maret 2020 5:50:02.103
+2020-03-17 05:50:31,884 - [INFO::DC::ExLogger] - AlarmClock: User manually dismissed, showLifePost:false
+2020-03-17 05:50:31,884 - [INFO::DC::ExLogger] - AlarmClock: Alarm dismissed
+2020-03-17 05:50:31,962 - [INFO::DC::ExLogger] - AlarmClock: AlarmKlaxon onDestroy()
+2020-03-17 12:21:45,549 - [INFO::DC::ExLogger] - AlarmClock: JobScheduler is exist
+2020-03-17 12:21:45,549 - [INFO::DC::ExLogger] - AlarmClock: JobScheduler is exist
+2020-03-17 16:18:09,082 - [INFO::DC::ExLogger] - AlarmClock: JobScheduler is exist
+2020-03-17 16:18:09,083 - [INFO::DC::ExLogger] - AlarmClock: JobScheduler is exist

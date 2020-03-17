@@ -1,0 +1,71 @@
+2019-08-20 20:11:19 PM com.duokan.phone.remotecontroller [Thread:116] MIIDManager startMIIDUpdateListener failed cause lack of GET_ACCOUNTS permission 
+2019-08-21 15:27:23 PM com.duokan.phone.remotecontroller [Thread:285] MIIDManager startMIIDUpdateListener failed cause lack of GET_ACCOUNTS permission 
+2019-08-21 15:27:23 PM com.duokan.phone.remotecontroller [Thread:294] receive an intent from server, action=com.xiaomi.mipush.RECEIVE_MESSAGE 
+2019-08-21 15:27:23 PM com.duokan.phone.remotecontroller [Thread:294] processing a message, action=Registration 
+2019-08-21 15:27:23 PM com.duokan.phone.remotecontroller [Thread:294] Perf_code  packetType  2037  length 292 
+2019-08-21 15:27:23 PM com.duokan.phone.remotecontroller [Thread:294] Perf_code  packetType  2041  length 322 
+2019-08-21 15:27:23 PM com.duokan.phone.remotecontroller [Thread:294] Perf_code  packetType  1003  length 292 
+2019-08-21 15:27:23 PM com.duokan.phone.remotecontroller [Thread:294] Perf_code  packetType  1003  length 292 
+2019-08-21 15:27:23 PM com.duokan.phone.remotecontroller [Thread:294] ASSEMBLE_PUSH : assemble push register 
+2019-08-21 15:27:23 PM com.duokan.phone.remotecontroller [Thread:294] receive an intent from server, action=com.xiaomi.mipush.RECEIVE_MESSAGE 
+2019-08-21 15:27:23 PM com.duokan.phone.remotecontroller [Thread:294] processing a message, action=Subscription 
+2019-08-21 15:27:23 PM com.duokan.phone.remotecontroller [Thread:294] receive an intent from server, action=com.xiaomi.mipush.RECEIVE_MESSAGE 
+2019-08-21 15:27:24 PM com.duokan.phone.remotecontroller [Thread:294] processing a message, action=Subscription 
+2019-08-21 15:27:28 PM com.duokan.phone.remotecontroller [Thread:285] Perf_code  packetType  2016  length 271 
+2019-08-21 15:27:28 PM com.duokan.phone.remotecontroller [Thread:294] receive an intent from server, action=com.xiaomi.mipush.RECEIVE_MESSAGE 
+2019-08-21 15:27:28 PM com.duokan.phone.remotecontroller [Thread:294] processing a message, action=Notification 
+2019-08-21 15:27:28 PM com.duokan.phone.remotecontroller [Thread:294] Perf_code  packetType  2014  length 1056 
+2019-08-21 15:27:28 PM com.duokan.phone.remotecontroller [Thread:294] ASSEMBLE_PUSH : assemble push register 
+2019-08-22 06:30:54 AM com.duokan.phone.remotecontroller [Thread:700] MIIDManager startMIIDUpdateListener failed cause lack of GET_ACCOUNTS permission 
+2019-08-22 06:30:54 AM com.duokan.phone.remotecontroller [Thread:707] Perf_code  packetType  2007  length 274 
+2019-08-22 06:30:54 AM com.duokan.phone.remotecontroller [Thread:700] Perf_code  packetType  2027  length 313 
+2019-08-22 06:30:54 AM com.duokan.phone.remotecontroller [Thread:705] receive an intent from server, action=com.xiaomi.mipush.RECEIVE_MESSAGE 
+2019-08-22 06:30:54 AM com.duokan.phone.remotecontroller [Thread:705] processing a message, action=Notification 
+2019-08-22 06:30:54 AM com.duokan.phone.remotecontroller [Thread:705] Perf_code  packetType  2008  length 891 
+2019-09-01 23:32:52 PM com.duokan.phone.remotecontroller [Thread:612] MIIDManager startMIIDUpdateListener failed cause lack of GET_ACCOUNTS permission 
+2019-09-01 23:32:52 PM com.duokan.phone.remotecontroller [Thread:612] Perf_code  packetType  2027  length 313 
+2019-09-01 23:32:52 PM com.duokan.phone.remotecontroller [Thread:618] receive an intent from server, action=com.xiaomi.mipush.RECEIVE_MESSAGE 
+2019-09-01 23:32:52 PM com.duokan.phone.remotecontroller [Thread:618] processing a message, action=Subscription 
+2019-09-01 23:32:52 PM com.duokan.phone.remotecontroller [Thread:618] receive an intent from server, action=com.xiaomi.mipush.RECEIVE_MESSAGE 
+2019-09-01 23:32:52 PM com.duokan.phone.remotecontroller [Thread:618] processing a message, action=Subscription 
+2019-09-01 23:32:52 PM com.duokan.phone.remotecontroller [Thread:618] receive an intent from server, action=com.xiaomi.mipush.RECEIVE_MESSAGE 
+2019-09-01 23:32:52 PM com.duokan.phone.remotecontroller [Thread:618] processing a message, action=Notification 
+2019-09-01 23:32:52 PM com.duokan.phone.remotecontroller [Thread:618] Perf_code  packetType  2008  length 1079 
+2019-09-01 23:32:57 PM com.duokan.phone.remotecontroller [Thread:612] Perf_code  packetType  2016  length 271 
+2019-09-18 09:55:02 AM com.duokan.phone.remotecontroller [Thread:1688] MIIDManager startMIIDUpdateListener failed cause lack of GET_ACCOUNTS permission 
+2019-09-18 09:55:02 AM com.duokan.phone.remotecontroller [Thread:1688] do sync info 
+2019-09-18 09:55:02 AM com.duokan.phone.remotecontroller [Thread:1688] Perf_code  packetType  2022  length 750 
+2019-09-18 09:55:02 AM com.duokan.phone.remotecontroller [Thread:1688] Perf_code  packetType  2027  length 313 
+2019-09-18 09:55:02 AM com.duokan.phone.remotecontroller [Thread:1691] receive an intent from server, action=com.xiaomi.mipush.RECEIVE_MESSAGE 
+2019-09-18 09:55:02 AM com.duokan.phone.remotecontroller [Thread:1691] processing a message, action=Subscription 
+2019-09-18 09:55:02 AM com.duokan.phone.remotecontroller [Thread:1691] receive an intent from server, action=com.xiaomi.mipush.RECEIVE_MESSAGE 
+2019-09-18 09:55:02 AM com.duokan.phone.remotecontroller [Thread:1691] processing a message, action=Subscription 
+2019-09-18 17:31:44 PM com.duokan.phone.remotecontroller [Thread:1993] MIIDManager startMIIDUpdateListener failed cause lack of GET_ACCOUNTS permission 
+2019-09-18 17:31:44 PM com.duokan.phone.remotecontroller [Thread:1993] Perf_code  packetType  2027  length 313 
+2019-09-18 17:31:49 PM com.duokan.phone.remotecontroller [Thread:1993] Perf_code  packetType  2016  length 271 
+2019-10-13 17:21:49 PM com.duokan.phone.remotecontroller [Thread:230] MIIDManager startMIIDUpdateListener failed cause lack of GET_ACCOUNTS permission 
+2019-10-13 17:21:49 PM com.duokan.phone.remotecontroller [Thread:230] do sync info 
+2019-10-13 17:21:49 PM com.duokan.phone.remotecontroller [Thread:230] Perf_code  packetType  2022  length 750 
+2019-10-13 17:21:49 PM com.duokan.phone.remotecontroller [Thread:230] Perf_code  packetType  2027  length 313 
+2019-10-13 17:21:49 PM com.duokan.phone.remotecontroller [Thread:237] receive an intent from server, action=com.xiaomi.mipush.RECEIVE_MESSAGE 
+2019-10-13 17:21:49 PM com.duokan.phone.remotecontroller [Thread:237] processing a message, action=Subscription 
+2019-10-13 17:21:49 PM com.duokan.phone.remotecontroller [Thread:237] receive an intent from server, action=com.xiaomi.mipush.RECEIVE_MESSAGE 
+2019-10-13 17:21:49 PM com.duokan.phone.remotecontroller [Thread:237] processing a message, action=Subscription 
+2019-10-31 10:41:28 AM com.duokan.phone.remotecontroller [Thread:352] MIIDManager startMIIDUpdateListener failed cause lack of GET_ACCOUNTS permission 
+2019-10-31 10:41:28 AM com.duokan.phone.remotecontroller [Thread:352] do sync info 
+2019-10-31 10:41:28 AM com.duokan.phone.remotecontroller [Thread:352] Perf_code  packetType  2022  length 750 
+2019-10-31 10:41:28 AM com.duokan.phone.remotecontroller [Thread:352] Perf_code  packetType  2027  length 313 
+2019-11-17 09:11:52 AM com.duokan.phone.remotecontroller [Thread:307] MIIDManager startMIIDUpdateListener failed cause lack of GET_ACCOUNTS permission 
+2019-11-17 09:11:52 AM com.duokan.phone.remotecontroller [Thread:307] do sync info 
+2019-11-17 09:11:52 AM com.duokan.phone.remotecontroller [Thread:307] Perf_code  packetType  2022  length 750 
+2019-11-17 09:11:52 AM com.duokan.phone.remotecontroller [Thread:307] Perf_code  packetType  2027  length 313 
+2019-11-17 09:11:52 AM com.duokan.phone.remotecontroller [Thread:310] receive an intent from server, action=com.xiaomi.mipush.RECEIVE_MESSAGE 
+2019-11-17 09:11:52 AM com.duokan.phone.remotecontroller [Thread:310] processing a message, action=Subscription 
+2019-11-17 09:11:52 AM com.duokan.phone.remotecontroller [Thread:310] receive an intent from server, action=com.xiaomi.mipush.RECEIVE_MESSAGE 
+2019-11-17 09:11:52 AM com.duokan.phone.remotecontroller [Thread:310] processing a message, action=Subscription 
+2019-11-20 11:22:29 AM com.duokan.phone.remotecontroller [Thread:404] MIIDManager startMIIDUpdateListener failed cause lack of GET_ACCOUNTS permission 
+2019-11-20 11:22:29 AM com.duokan.phone.remotecontroller [Thread:404] Perf_code  packetType  2027  length 313 
+2019-11-20 11:22:29 AM com.duokan.phone.remotecontroller [Thread:408] receive an intent from server, action=com.xiaomi.mipush.RECEIVE_MESSAGE 
+2019-11-20 11:22:29 AM com.duokan.phone.remotecontroller [Thread:408] processing a message, action=Subscription 
+2019-11-20 11:22:29 AM com.duokan.phone.remotecontroller [Thread:408] receive an intent from server, action=com.xiaomi.mipush.RECEIVE_MESSAGE 
+2019-11-20 11:22:29 AM com.duokan.phone.remotecontroller [Thread:408] processing a message, action=Subscription 
